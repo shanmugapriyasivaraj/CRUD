@@ -1,0 +1,22 @@
+.avatar {
+  border-radius: 50px;
+}
+.container {
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+body {
+  background-image: linear-gradient(
+    to right top,
+    #05b5f2,
+    #00caf7,
+    #00dbd6,
+    #00e692,
+    #12eb23
+  );
+}
